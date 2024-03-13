@@ -6,7 +6,7 @@ export default function Home() {
     <section className="flex flex-col h-screen justify-between">
       <nav className="flex px-[6%] py-2 justify-between items-center">
         <span className="scroll-m-20 text-2xl font-semibold tracking-tight">
-          Trellow
+          Trellowr
         </span>
         <Button
           className="scroll-m-20 text-base px-9 font-semibold tracking-tight"
